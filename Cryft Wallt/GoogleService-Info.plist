@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB2uUJ_blcRc2vxdrgKPSj6JA-nUijSYkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>457675174745</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>INFO6350.Cryft-Wallet</string>
+	<key>PROJECT_ID</key>
+	<string>cryft-e7e1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cryft-e7e1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:457675174745:ios:fcfe9b96e525327f281248</string>
+</dict>
+</plist>
